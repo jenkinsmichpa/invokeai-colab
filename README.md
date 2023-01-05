@@ -1,5 +1,5 @@
 # invokeai-colab
-Notebook for running Invoke AI in a free Google Collab GPU runtime.
+Notebook for running Invoke AI GUI in a free Google Collab GPU runtime.
 
 This requires generating huggingface and ngonk tokens and entering them in the code where specified.
 
