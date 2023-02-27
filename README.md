@@ -7,4 +7,4 @@ Persistent GDrive storage can be configured. Preparing the environment uses quit
 
 The runtime site is available at the printed NGROK URL after clicking "Run All".
 
-Tested to work with version InvokeAI 2.3.1.
+Tested to work with InvokeAI version 2.3.1.
