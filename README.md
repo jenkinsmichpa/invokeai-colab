@@ -5,6 +5,6 @@ This notebook requires generating huggingface and NGROK tokens and entering them
 
 Persistent GDrive storage can be configured. Preparing the environment uses quite a lot of disk space.
 
-I have no clue what I am doing but this works as of commit. It is available at the printed NGROK URL after clicking "Run All".
+The runtime site is available at the printed NGROK URL after clicking "Run All".
 
-Sometimes a crash occurs due to memory usage while switching models.
+Tested to work with version InvokeAI 2.3.1.
