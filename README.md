@@ -4,9 +4,11 @@
 
 ## Configuring the Notebook
 This notebook requires the use of Hugging Face and NGROK tokens.
+
 The Hugging Face token should be supplied where `HF_TOKEN_HERE` is specified.
 Information on generating Hugging Face tokens is available [here](https://huggingface.co/docs/hub/security-tokens).
 You may need to accept the licenses on the Hugging Face pages of the stable diffusion weights for the tokens to work.
+
 The NGROK token should be supplied where `NGROK_TOKEN_HERE` is specified.
 To get an NGROK token, sign up [here](https://dashboard.ngrok.com/signup).
 
