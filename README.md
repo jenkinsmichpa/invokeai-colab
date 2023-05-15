@@ -12,7 +12,7 @@ You may need to accept the licenses on the Hugging Face pages of the stable diff
 The NGROK token should be supplied where `NGROK_TOKEN_HERE` is specified.
 To get an NGROK token, sign up [here](https://dashboard.ngrok.com/signup).
 
-Persistent GDrive storage can be configured by setting the `chosen_colab_path` to `persist_colab_path`. Be warned as Invoke-AI has many dependencies, it uses a lot of storage space.
+Persistent Google Drive storage can be configured by setting the `chosen_colab_path` to `persist_colab_path`. Be warned as Invoke-AI has many dependencies, it uses a lot of storage space.
 
 Custom models can be imported locally or from Hugging Face.
 Information on hosting your own models on Hugging Face and installing models into Invoke AI is available at the following URLs:
